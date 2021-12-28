@@ -1,0 +1,27 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "## Table of Contents   * [User Story](#user-story)   * [Acceptance Criteria](#acceptance-criteria)   * [Technologies Used](#technologies-used)   * [Installation](#installation)   * [Questions](#questions)   * [License](#license)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcastillo9/e-commerce-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcastillo9/e-commerce-app/issues"
+  },
+  "homepage": "https://github.com/jcastillo9/e-commerce-app#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^7.0.0-alpha.3"
+  }
+}
