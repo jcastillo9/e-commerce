@@ -33,7 +33,7 @@ As a manager at an internet retail company, I want a back end for my e-commerce 
   * GET
 
 ## Installation
- Video Walkthrough: <>
+ Video Walkthrough: <https://watch.screencastify.com/v/gwXQFFFMBFF44oMc4V86>
 
  <img src="assets/images/ScreenShot.png"/>
  
